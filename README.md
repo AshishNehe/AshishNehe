@@ -15,12 +15,17 @@ Computer Science student passionate about software development. Currently streng
 **IBM SkillsBuild**
 
 1) Getting Started with Generative AI
-  - Issued: July 2026
-  - Credential: https://www.credly.com/badges/cf39cead-fd42-4362-acbe-ab3bc5f59a90/public_url
+- Issued: July 2026
+- Credential: https://www.credly.com/badges/cf39cead-fd42-4362-acbe-ab3bc5f59a90/public_url
 
 2) Cybersecurity Fundamentals
-  - Issued: July 2026
-  - Credential: https://www.credly.com/badges/8baef00b-49f3-45c5-84c7-7c7e242e64ba/public_url
+- Issued: July 2026
+- Credential: https://www.credly.com/badges/8baef00b-49f3-45c5-84c7-7c7e242e64ba/public_url
+
+## Honors & Achievements
+
+- **Cummins Nurturing Brilliance Scholar**
+  - Selected as a Cummins Nurturing Brilliance Scholar based on academic merit. The program provides scholarship support, mentorship, and professional development opportunities.
 
 ## Current Focus
 
@@ -35,4 +40,4 @@ Computer Science student passionate about software development. Currently streng
 
 ## Connect
 
-- LinkedIn:[AshishNehe](https://www.linkedin.com/in/ashish-nehe-aa8519378)
+- LinkedIn: [Ashish Nehe](https://www.linkedin.com/in/ashish-nehe-aa8519378)
