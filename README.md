@@ -22,6 +22,13 @@ Computer Science student passionate about software development. Currently streng
 - Issued: July 2026
 - Credential: https://www.credly.com/badges/8baef00b-49f3-45c5-84c7-7c7e242e64ba/public_url
 
+**Oracle**
+
+3) Oracle Database Explorer
+- Issued: July 2026
+- Achievement: Oracle Learning Explorer
+- Credential: Oracle MyLearn Achievement
+
 ## Honors & Achievements
 
 - **Cummins Nurturing Brilliance Scholar**
