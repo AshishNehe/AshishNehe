@@ -44,6 +44,7 @@ Computer Science student passionate about software development. Currently streng
 ## Featured Repository
 
 - **Java-DSA** – Java solutions for data structures, algorithms, and coding practice.
+- **Japanese Learning** – My Japanese learning journey and JLPT N5 preparation.
 
 ## Connect
 
