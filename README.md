@@ -22,6 +22,10 @@ Computer Science student passionate about software development. Currently streng
 - Issued: July 2026
 - Credential: https://www.credly.com/badges/8baef00b-49f3-45c5-84c7-7c7e242e64ba/public_url
 
+3) Project Management Fundamentals
+- Issued: August 2026
+- Credential: https://www.credly.com/badges/ece87e8b-a2ae-450a-8ad3-934f7172f3d4/public_url
+
 **Oracle**
 
 3) Oracle Database Explorer
