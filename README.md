@@ -49,7 +49,9 @@ Computer Science student passionate about software development. Currently streng
 
 - **Java-DSA** – Java solutions for data structures, algorithms, and coding practice.
 - **Japanese Learning** – My Japanese learning journey and JLPT N5 preparation.
+- **Java Learning** – My Java learning journey and practice programs.
 
 ## Connect
 
 - LinkedIn: [Ashish Nehe](https://www.linkedin.com/in/ashish-nehe-aa8519378)
+- LeetCode: [Ashish_Nehe](https://leetcode.com/u/Ashish_Nehe/)
