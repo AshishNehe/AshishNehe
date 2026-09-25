@@ -55,3 +55,4 @@ Computer Science student passionate about software development. Currently streng
 
 - LinkedIn: [Ashish Nehe](https://www.linkedin.com/in/ashish-nehe-aa8519378)
 - LeetCode: [Ashish_Nehe](https://leetcode.com/u/Ashish_Nehe/)
+- Naukri: [Ashish Nehe](https://www.naukri.com/mnjuser/profile?id=&altresid)
