@@ -45,11 +45,12 @@ Computer Science student passionate about software development. Currently streng
 - Exploring AI applications
 - Preparing for software engineering interviews
 
-## Featured Repository
+## Featured Repositories
 
-- **Java-DSA** – Java solutions for data structures, algorithms, and coding practice.
-- **Japanese Learning** – My Japanese learning journey and JLPT N5 preparation.
-- **Java Learning** – My Java learning journey and practice programs.
+- **Java-DSA-LeetCode** – Java solutions for Data Structures & Algorithms problems practiced on LeetCode, with a focus on problem-solving patterns and optimized approaches.
+- **Java-Learning-Journey** – My Java learning journey from beginner to advanced, covering core Java concepts, Object-Oriented Programming, and practice programs.
+- **FLOODY-SHIELD** – A project developed for Smart India Hackathon 2026, focused on flash flood and landslide risk assessment and last-mile alert dissemination.
+- **Japanese-learning** – My Japanese learning journey while preparing for the JLPT N5.
 
 ## Connect
 
